@@ -236,7 +236,6 @@
         'begin': '(\\()([^:\\|\\}]+:)'
         'beginCaptures':
           '1': 'name': 'punctuation.separator.twee2'
-          # '2': 'name': 'keyword.twee2'
           '2': 'patterns': [
                 ## ALL Colors Set to Serve vautour-dark-syntax && one-dark-syntax
                 #* Change colors if you want customizations
