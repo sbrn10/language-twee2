@@ -84,7 +84,7 @@
       { "include": "text.haml"},
       {
         'name': 'meta.harlowe.macros.twee2'
-        'begin': '(\\(\w+:)'
+        'begin': '(\\()'
         'beginCaptures':
           '1': 'name': 'punctuation.separator.twee2'
         'end': '(\\))'
